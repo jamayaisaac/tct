@@ -1,0 +1,3 @@
+File README adalah file yang  berisi informasi tentang file lain, di dalam direktori atau arsip perangkat lunak komputer. Sebuah bentuk dokumentasi, biasanya file teks sederhana sederhana yang disebut READ.ME, README.TXT, README.md (untuk file teks menggunakan markup markup), README.1ST - atau hanya README.
+
+Nama file umumnya selalu ditulis dalam huruf besar. Pada sistem seperti Unix pada khususnya, hal ini membuatnya mudah diperhatikan - keduanya karena nama file yang lebih rendah lebih biasa, dan karena secara tradisional, perintah ls memilah dan menampilkan file dalam urutan ASCIIbetical, sehingga nama file huruf besar muncul lebih dulu.
